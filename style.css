@@ -1,0 +1,56 @@
+
+#name_of_the_father_1 {
+    margin-bottom: 15px;
+    margin-left: 15px;
+    height: 20px;
+    width: 250px;
+    }
+    #Type_of_the_father_2 {
+    margin-bottom: 15px;
+    margin-right: 30px;
+    height: 20px;
+    width: 250px;
+    }
+    .body_background 
+    {
+        background-image: url("https://image.shutterstock.com/image-vector/best-dad-world-hand-lettering-260nw-658521187.jpg");
+        background-position: center;
+        background-size: cover;
+        color: white;
+    }
+    #myCanvas
+    {
+        border-width:10px;
+        background-color:white; 
+        border-style:ridge;
+    }
+    
+    h2
+    {
+        border-radius: 10px;
+        width: 200px;
+        padding: 5px;
+     }
+    h3
+    {
+        display: inline-block;
+    }
+    span
+    {
+        color:black;	
+    }
+    a
+    {
+        text-decoration: none;
+        font-size: 20px;
+        padding: 10px;
+        float: left;
+        border-radius: 10px;
+    }
+    #head_info
+    {
+        width: 600px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+    
